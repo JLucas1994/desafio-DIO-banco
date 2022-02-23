@@ -1,2 +1,3 @@
-# desafio-DIO-banco
-# desafio-DIO-banco
+# Desafio DIO Banco
+
+Projeto de criação de um banco digital.
